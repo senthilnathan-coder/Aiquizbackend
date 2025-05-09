@@ -1,0 +1,5 @@
+google-generativeai
+openai-whisper
+moviepy
+ffmpeg-python
+gunicorn
