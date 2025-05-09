@@ -4,3 +4,4 @@ openai-whisper
 moviepy
 ffmpeg-python
 gunicorn
+django-cors-headers
